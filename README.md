@@ -68,7 +68,7 @@ Modified `run_demo.py` to automatically detect and use available hardware (GPU o
 **Setup:**
 ```bash
 # Clone the repository
-git clone https://github.com/Vineela-10/CCN_LIA_Final.git
+git clone https://github.com/MSrikar7/CCN_LIA_Final.git
 cd CCN_LIA_Final
 
 # Install dependencies
