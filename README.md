@@ -132,7 +132,7 @@ CCN_LIA_Final/
 
 **Original Repository:** https://github.com/wyhsirius/LIA
 
-**Modifications by:** Vineela-10
+**Modifications by:** Srikar Manikonda
 
 ## License
 
